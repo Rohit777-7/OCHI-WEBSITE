@@ -1,16 +1,60 @@
-# React + Vite
+# 🚀 OCHI Website Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually stunning and modern clone of the OCHI design agency website built using **React.js**, **Vite**, and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+This project focuses on creating smooth user experiences, responsive layouts, reusable components, and elegant modern UI design inspired by award-winning websites.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+# ✨ Highlights
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+⚡ Fully Responsive Design  
+⚡ Smooth and Clean UI  
+⚡ Reusable React Components  
+⚡ Fast Performance with Vite  
+⚡ Modern Animations & Layouts  
+⚡ Tailwind CSS Styling  
+⚡ Beginner Friendly Project Structure  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 🛠️ Tech Stack
+
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
+
+---
+
+# 📂 Project Structure
+
+```bash
+OCHI/
+│── public/
+│── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── About.jsx
+│   │   ├── Cards.jsx
+│   │   ├── Eyes.jsx
+│   │   ├── Featured.jsx
+│   │   ├── Footer.jsx
+│   │   ├── LandingPage.jsx
+│   │   ├── Marquee.jsx
+│   │   └── Navbar.jsx
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+│
+├── index.html
+├── package.json
+├── tailwind.config.js
+├── vite.config.js
+└── README.md
+
+👨‍💻 Author
+
+Rohit Yadav
+
+GitHub: https://github.com/Rohit777-7
